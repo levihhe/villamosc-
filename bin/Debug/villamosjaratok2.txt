@@ -1,0 +1,33 @@
+2;Európa liget;1
+2;Vértó;1
+2;Bálint Sándor utca;1
+2;Rókusi víztorony;1
+2;Szatymazi utca;2
+2;Vásárhelyi Pál út;1
+2;Damjanich utca;1
+2;Tavasz utca;1
+2;Rókusi templom;2
+2;Anna-kút;1
+2;Szénchenyi tér;1
+2;Somogyi utca;1
+2;Aradi vértanúk tere;2
+2;Bécsi krt;1
+2;Bem utca;1
+2;Szeged vá;0
+4;Kecskés;1
+4;Szalámigyár;1
+4;Szabadkai út;1
+4;Vám tér;1
+4;Szivárvány kitérő;1
+4;Vitéz utca;1
+4;Dugonics tér;1
+4;Tisza Lajos krt. (Károlyi u.);1
+4;Anna-kút;1
+4;Glattfelder Gyula tér;1
+4;Szent György tér;1
+4;Brüsszeli krt.;1
+4;Kecskeméti utca;1
+4;Rózsa utca;1
+4;Deák Ferenc Gimnázium;1
+4;Budapesti krt.;1
+4;Tarján;0

@@ -1,0 +1,10 @@
+J:\12.c\csharp\villamosfeladat\villamos116\villamos116\bin\Debug\villamos116.exe.config
+J:\12.c\csharp\villamosfeladat\villamos116\villamos116\bin\Debug\villamos116.exe
+J:\12.c\csharp\villamosfeladat\villamos116\villamos116\bin\Debug\villamos116.pdb
+J:\12.c\csharp\villamosfeladat\villamos116\villamos116\obj\Debug\villamos116.csproj.AssemblyReference.cache
+J:\12.c\csharp\villamosfeladat\villamos116\villamos116\obj\Debug\villamos116.Form1.resources
+J:\12.c\csharp\villamosfeladat\villamos116\villamos116\obj\Debug\villamos116.Properties.Resources.resources
+J:\12.c\csharp\villamosfeladat\villamos116\villamos116\obj\Debug\villamos116.csproj.GenerateResource.cache
+J:\12.c\csharp\villamosfeladat\villamos116\villamos116\obj\Debug\villamos116.csproj.CoreCompileInputs.cache
+J:\12.c\csharp\villamosfeladat\villamos116\villamos116\obj\Debug\villamos116.exe
+J:\12.c\csharp\villamosfeladat\villamos116\villamos116\obj\Debug\villamos116.pdb
